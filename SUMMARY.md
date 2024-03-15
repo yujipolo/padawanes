@@ -29,5 +29,6 @@
   * [Motion](areas-concretas/motion.md)
   * [UX/UI](areas-concretas/ux-ui.md)
 * [SECTOR PROFESIONAL](sector-profesional/README.md)
+  * [Todos/as tenemos una responsabilidad](sector-profesional/todos-as-tenemos-una-responsabilidad.md)
   * [Los procesos de selección](sector-profesional/los-procesos-de-seleccion.md)
   * [Mentoring](sector-profesional/mentoring.md)
