@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Presentación del proyecto Padawanes](README.md)
-* [Conseguir contactos](conseguir-contactos.md)
-* [Oportunidades](oportunidades.md)
+* [Cómo conseguir CONTACTOS](conseguir-contactos.md)
+* [Dónde están  las OPORTUNIDADES](donde-estan-las-oportunidades.md)
 * [Los portfolios](los-portfolios.md)
 * [Salud y Cuidado personal](salud-y-cuidado-personal/README.md)
   * [Ergonomía](salud-y-cuidado-personal/ergonomia.md)
