@@ -1,6 +1,9 @@
 # Table of contents
 
 * [Presentación del proyecto Padawanes](README.md)
+  * [Editorial - Pablo Domínguez (tinybigstudio)](readme/editorial-pablo-dominguez-tinybigstudio.md)
+  * [Editorial - Diego Rodríguez (arketipo)](readme/editorial-diego-rodriguez-arketipo.md)
+  * [Editorial - ??](readme/editorial.md)
 * [Cómo echar una mano](como-echar-una-mano.md)
 * [👉 ENCONTRAR TU CAMINO](encontrar-tu-camino/README.md)
   * [Mueve el culo](encontrar-tu-camino/mueve-el-culo.md)
