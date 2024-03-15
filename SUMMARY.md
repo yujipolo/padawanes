@@ -9,6 +9,7 @@
   * [Mueve el culo](encontrar-tu-camino/mueve-el-culo.md)
   * [El inglés NO es negociable](encontrar-tu-camino/el-ingles-no-es-negociable.md)
   * [Por dónde empezar](encontrar-tu-camino/por-donde-empezar.md)
+  * [Domina tu herramienta](encontrar-tu-camino/domina-tu-herramienta.md)
   * [Cómo conseguir CONTACTOS](encontrar-tu-camino/conseguir-contactos.md)
   * [Dónde están  las OPORTUNIDADES](encontrar-tu-camino/donde-estan-las-oportunidades.md)
   * [Los PORTFOLIOS](encontrar-tu-camino/los-portfolios.md)
