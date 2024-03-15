@@ -1,4 +1,3 @@
 # Conseguir contactos
 
-Escrito desde github
-
+Escrito desde github y editado desde gitbook
