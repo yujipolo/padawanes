@@ -3,6 +3,7 @@
 * [Presentación del proyecto Padawanes](README.md)
 * [Cómo echar una mano](como-echar-una-mano.md)
 * [👉 ENCONTRAR TU CAMINO](encontrar-tu-camino/README.md)
+  * [Mueve el culo](encontrar-tu-camino/mueve-el-culo.md)
   * [Cómo conseguir CONTACTOS](encontrar-tu-camino/conseguir-contactos.md)
   * [Dónde están  las OPORTUNIDADES](encontrar-tu-camino/donde-estan-las-oportunidades.md)
   * [Los portfolios](encontrar-tu-camino/los-portfolios.md)
