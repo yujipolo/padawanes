@@ -17,6 +17,8 @@
     * [Salud](encontrar-tu-camino/salud-y-cuidado-personal/salud.md)
     * [Ejercicio físico](encontrar-tu-camino/salud-y-cuidado-personal/ejercicio-fisico.md)
     * [Salud mental](encontrar-tu-camino/salud-y-cuidado-personal/salud-mental.md)
+  * [Crecimiento profesional](encontrar-tu-camino/crecimiento-profesional.md)
+  * [El inglés NO es negociable](encontrar-tu-camino/el-ingles-no-es-negociable.md)
 * [ÁREAS CONCRETAS](areas-concretas/README.md)
   * [Branding](areas-concretas/branding.md)
   * [Ilustración y Comic](areas-concretas/ilustracion-y-comic.md)
