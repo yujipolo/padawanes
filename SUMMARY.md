@@ -12,6 +12,7 @@
   * [Domina tu herramienta](encontrar-tu-camino/domina-tu-herramienta.md)
   * [Cómo conseguir CONTACTOS](encontrar-tu-camino/conseguir-contactos.md)
   * [Dónde están  las OPORTUNIDADES](encontrar-tu-camino/donde-estan-las-oportunidades.md)
+  * [Encontrar TRABAJO](encontrar-tu-camino/encontrar-trabajo.md)
   * [Los PORTFOLIOS](encontrar-tu-camino/los-portfolios.md)
   * [Precio y Valor](encontrar-tu-camino/precio-y-valor.md)
   * [Salud y Cuidado personal](encontrar-tu-camino/salud-y-cuidado-personal/README.md)

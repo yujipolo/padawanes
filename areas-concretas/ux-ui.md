@@ -1,2 +1,3 @@
 # UX/UI
 
+{% embed url="https://open.spotify.com/playlist/3ywNn1nK3b2LyfetigAlbf?si=ff54c3c6b46e42b3&nd=1&utm_medium=organic&_branch_referrer=H4sIAAAAAAAAA7WNTQrDIBSET2OWCfHZLAqhBEo2Lb1CUaOJ5FXFH4q3ryn0CIVZDDN8fFtKPp67LnqXjC4t975FY%2Ffu4oNbskyj88o2hDKdEZ854LgdCIGJ0LnmuNsfLd2rTh55QRNTrVDeD9vbGwh6L1ols04oNIE5GgJXrU9MghwEGxSjAr4ajii43P%2BsInSwS937RiueclCjCyu3Rn4A0u67KhEBAAA%3D&product=open&%24full_url=https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F3ywNn1nK3b2LyfetigAlbf%3Fsi%3Dff54c3c6b46e42b3&feature=organic&_branch_match_id=1191669967047403758" %}
