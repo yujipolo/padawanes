@@ -1,3 +1,2 @@
-# Conseguir contactos
+# Cómo conseguir CONTACTOS
 
-Escrito desde github y editado desde gitbook

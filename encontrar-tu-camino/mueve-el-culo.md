@@ -2,7 +2,7 @@
 description: Vive como si nadie fuese a venir a ayudarte
 ---
 
-# Mueve el culo
+# Muévete
 
 ## No procastines, más de lo necesario
 
