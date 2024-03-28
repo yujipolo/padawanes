@@ -6,7 +6,7 @@
   * [Editorial - ??](readme/editorial.md)
 * [Cómo echar una mano](como-echar-una-mano.md)
 * [👉 ENCONTRAR TU CAMINO](encontrar-tu-camino/README.md)
-  * [Mueve el culo](encontrar-tu-camino/mueve-el-culo.md)
+  * [Muévete](encontrar-tu-camino/muevete.md)
   * [El inglés NO es negociable](encontrar-tu-camino/el-ingles-no-es-negociable.md)
   * [Por dónde empezar](encontrar-tu-camino/por-donde-empezar.md)
   * [Domina tu herramienta](encontrar-tu-camino/domina-tu-herramienta.md)
