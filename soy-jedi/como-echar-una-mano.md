@@ -7,6 +7,8 @@
 * Mentoriza
 * Crea eventos diversos (conferencias, open space, etc)
 
+Editado desde gitbook
+
 ## Si estás empezando
 
 * Comparte
