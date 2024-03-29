@@ -1,2 +1,0 @@
-# Precio y Valor
-

@@ -1,2 +1,0 @@
-# Domina tu herramienta
-

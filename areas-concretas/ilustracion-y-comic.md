@@ -1,2 +1,0 @@
-# Ilustración y Comic
-

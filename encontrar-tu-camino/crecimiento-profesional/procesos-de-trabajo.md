@@ -1,2 +1,0 @@
-# Procesos de trabajo
-

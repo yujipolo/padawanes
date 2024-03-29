@@ -1,2 +1,0 @@
-# 👉 ENCONTRAR TU CAMINO
-
