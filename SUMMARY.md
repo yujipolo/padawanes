@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Presentación del proyecto Padawanes](README.md)
+* [✔️ Hola Padawanes](README.md)
   * [Editorial - Pablo Domínguez (tinybigstudio)](readme/editorial-pablo-dominguez-tinybigstudio.md)
   * [Editorial - Diego Rodríguez (arketipo)](readme/editorial-diego-rodriguez-arketipo.md)
   * [Editorial - ??](readme/editorial.md)
