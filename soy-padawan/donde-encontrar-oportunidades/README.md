@@ -26,5 +26,29 @@ Obviamente el CV "en frío" toma más valor en procesos donde la empresa no ha s
 
 Si tus trabajos y actividad profesional demuestran una cosa, huye de quienes no lo valoren por encima de un título.
 
+## En los lugares más insospechados (Diego Rodríguez)
+
+* He encontrado trabajo en redes sociales, en bares, en eventos, incluso en un anuncios en el periódico.
+* Lo más importante es estar atento/a, escuchar, tener alertas (LinkedIn, Google…)
+* Hablar con gente y que sepan que estás buscando, qué te interesa y qué sabes hacer. Tiene que ver con el Branding, que cuando alguien busque un perfil para un proyecto tu nombre le venga rápidamente a la cabeza.
+
+## Pueden apareceer de cualquier forma (Armando Sotoca)
+
+Quizá sea debido al momento vital en el que me encuentro pero llevo ya unos años pensando que hay mucha oferta de empleo relacionada con el diseño, entendiendo como diseño todo aquello que tenga que ver con el estudio o la aplicación del diseño en alguna de sus formas.
+
+El problema no es que no haya trabajo sino que quizá ese trabajo disponible no encaja con lo que nosotros tenemos en la cabeza o que realmente NO estamos dispuestos a hacer o aceptar todo lo que supone conseguir ese trabajo.
+
+Aún así y como dice Diego, **las oportunidades pueden aparecer de cualquier forma ante ti.**
+
+Recuerdo haber leído hace ya bastante tiempo un artículo donde intentaban darle forma mediante una fórmula matemática a las posibilidades de que te aceptaran en un trabajo. Más allá de eso, toca tener en cuenta que para encontrar trabajo hay 3 grandes factores que inciden directa o indirectamente en tus posibilidades.
+
+\- Visibilidad
+
+\- Habilidades
+
+\- Suerte
+
+Sobre la suerte siempre recuerdo [esta sucesión de tweets de Eduardo Manchón.](https://twitter.com/eduardomanchon/status/1194432603383902211)
+
 
 
