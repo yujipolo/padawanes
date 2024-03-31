@@ -10,7 +10,7 @@ Después se incorporó más gente al proyecto Víctor, Paco y algunas compañera
 
 A mi me gusta encender la mecha y que "pasen cosas" en este caso no continué con el proyecto, básicamente porque yo creía que esta gran oportunidad debíamos ofrecerla solo a gente que tenía factores en contra: vivir en ciudades y pueblos no demasiado conectados con Madrid y Barcelona (donde tienes más opciones de ir a eventos y hablar con gente en activo) y también favorecer, como siempre pienso, a la gente de la formación pública.
 
-Contactaron alumnos de universidades y escuelas de diseño de prestigio y yo creía que era labor de estas orientar a sus clientes, luego aprendí que desafortunadamente no siempre es así.
+Contactaron alumnos de universidades y escuelas de diseño de prestigio y yo creía que era labor de éstas orientar a sus clientes, luego aprendí que desafortunadamente no siempre es así.
 
 Pasado el tiempo tuve la oportunidad de viajar a Salamanca primero y Soria después a charlar con alumnos/as de diseño de las escuelas de Arte y Diseño públicas y surgieron un montón de preguntas que no dio tiempo a contestar.&#x20;
 
