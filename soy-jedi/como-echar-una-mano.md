@@ -9,8 +9,4 @@
 
 Editado desde gitbook. Segunda edición
 
-## Si estás empezando
-
-* Comparte
-* Aporta lo que vayas aprendiendo
-* Si surge una oportunidad, y no es para ti, compártela a quien le vaya bien
+##

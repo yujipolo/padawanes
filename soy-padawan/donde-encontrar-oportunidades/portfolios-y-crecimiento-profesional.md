@@ -8,6 +8,29 @@ El diseñador/a debe ser proactivo y no reactivo. Como decían en la "bola de cr
 
 Creo que es más directo definir el diseñador/a bueno como el que hace buenos diseños y los buenos diseños son los que cumplen los objetivos.
 
+El tema de portfolios está resuelto. El tema de freelance también… como parte de una empresa creo que lo mejor es definir tu perfil profesional, ver qué necesitas (usar algo como un DAFO para analizar que fortalezas competitivas tienes y que áreas de mejora necesitas) y eso compararlo con las ofertas de las empresas que te interesan.
+
+Puedes contactar con el profesional que te merezca más confianza a ver si te da feedback. De todos modos en muchos eventos (Design Week y similares) se suelen organizar "Portfolio days" en que se revisan los trabajos de estudiantes.
+
+## ¿Es necesario? sin duda… a no ser que seas una estrella
+
+Vas a escuchar/leer en un montón de sitios que no hace falta. **Si quieres pasar un proceso de SELECCIÓN es imprescindible,** así que ponte con ello.
+
+En el podcast "lo de producto" tienen un capítulo sobre el tema que te ayudará
+
+{% embed url="https://anchor.fm/lodeproducto" %}
+
+### Donde montar un portfolio
+
+* Puedes hacerte tu propia página, Asi puedes mostrar tus conocimientos.
+* Puedes ser público o privado para que solo puedan verlo las personas a las que les des acceso, a través de una web con contraseña o incluso un pdf protegido
+* En plataformas especializadas: behance, dribble…
+* Tienes servicios y plantillas para crearlos como squarespace, semplice, carbonmade…
+
+El del compañero Pablo es un buen ejemplo
+
+{% embed url="http://www.tinybigstudio.com/" %}
+
 ## ¿Es necesario tener un portfolio? (Armando Sotoca)
 
 En mi época por la comunidad de diseño DeviantArt era muy común hacerse una especie de imagen de perfil tipo tarjeta de presentación y renovarla cada poco tiempo. Al final era una manera más de practicar diseño.
