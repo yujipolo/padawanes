@@ -11,3 +11,4 @@
 * [Soy JEDI](soy-jedi/README.md)
   * [Cómo echar una mano](soy-jedi/como-echar-una-mano.md)
 * [Y ahora…](y-ahora....md)
+* [Han colaborado en este proyecto](han-colaborado-en-este-proyecto.md)
