@@ -26,11 +26,21 @@ Obviamente el CV "en frío" toma más valor en procesos donde la empresa no ha s
 
 Si tus trabajos y actividad profesional demuestran una cosa, huye de quienes no lo valoren por encima de un título.
 
+Se puede, muchos compañeros/as lo hemos hecho. Es más difícil pero afortunadamente estamos en una profesión en la que aún se puede ser autodidacta.
+
+Evidentemente es más fácil porque tienes profesores del sector que te pueden dar contactos y en muchos casos acuerdos de colaboración y prácticas. De todos modos me parece muy valiosa la persona que ha sido capaz de formarse a si mismo, así que no te rindas.
+
 ## En los lugares más insospechados (Diego Rodríguez)
 
 * He encontrado trabajo en redes sociales, en bares, en eventos, incluso en un anuncios en el periódico.
 * Lo más importante es estar atento/a, escuchar, tener alertas (LinkedIn, Google…)
 * Hablar con gente y que sepan que estás buscando, qué te interesa y qué sabes hacer. Tiene que ver con el Branding, que cuando alguien busque un perfil para un proyecto tu nombre le venga rápidamente a la cabeza.
+
+No es fácil, es un esfuerzo personal y las ayudas están ahi. Los centros suelen tener bolsas de empleo, surgen becas, subvenciones de colaboración, iniciativas públicas y privadas. Creo que el primer paso es estar muy antento/a a todas esas oportunidades.
+
+El buscar trabajo puede ser muy frustrante y debes tener en cuenta que no es una razón personal si te rechazan, es porque no es el momento, porque hay alguien mejor o porque no es tu sitio. La persona más brillante que conozco y con la que iría al fin del mundo sin preguntar, envió 70 CV y solo le contestaron de 2 sitios, con experiencia, idiomas y referencias.&#x20;
+
+Así que mantener la moral y no desfallecer es muy importante. Hay veces que las vacantes quedan vacías, otras son pruebas de cómo está el sector. Lo más difícil es entrar. A partir de ahí se empieza a conocer gente, entender mejor lo que nos gusta y lo que se nos da bien y podemos usar la "teoría de las lianas" buscar un trabajo mientras tenemos otros. Creo que todos nos avergonzamos del primer empleo, pero muchas veces son pasos necesarios.
 
 ## Pueden apareceer de cualquier forma (Armando Sotoca)
 
@@ -49,6 +59,14 @@ Recuerdo haber leído hace ya bastante tiempo un artículo donde intentaban darl
 \- Suerte
 
 Sobre la suerte siempre recuerdo [esta sucesión de tweets de Eduardo Manchón.](https://twitter.com/eduardomanchon/status/1194432603383902211)
+
+Creo que es muy importante saber **aceptar el rechazo** y normalizarlo como parte del propio proceso. Creo que no somos conscientes de la INMENSA cantidad de profesionales que aplicamos a procesos, más aún si pensamos en global y no estamos limitándonos a un "mercado local".
+
+He visto casos de personas que han empezado a dudar de su propia valía ante una racha continuada de "noes" con la consecuente pérdida de confianza en un momento tan delicado como puede llegar a ser la búsqueda de empleo.
+
+**Saber cuáles son nuestras capacidades y nuestros "límites",** no mentirnos a nosotros mismos o si lo hacemos, estar dispuestos a recibir más de una bofetada de realidad.
+
+Los únicos atajos REALES que conozco son los relacionados con tirar de contactos: no tengas miedo en escribir un email, un mensaje directo o el sistema que prefieras para preguntar por información adicional sobre el puesto. Las redes sociales nos han "acercado" y creo que hay que saber aprovecharlo.
 
 
 

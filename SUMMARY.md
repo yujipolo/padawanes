@@ -8,6 +8,7 @@
   * [Cómo conseguir contactos](soy-padawan/como-conseguir-contactos.md)
   * [Dónde encontrar oportunidades](soy-padawan/donde-encontrar-oportunidades/README.md)
     * [Promoción continua](soy-padawan/donde-encontrar-oportunidades/promocion-continua.md)
+  * [Precio y Valor](soy-padawan/precio-y-valor.md)
 * [Soy JEDI](soy-jedi/README.md)
   * [Cómo echar una mano](soy-jedi/como-echar-una-mano.md)
 * [Y ahora…](y-ahora....md)
