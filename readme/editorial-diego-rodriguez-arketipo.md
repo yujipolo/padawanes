@@ -18,6 +18,6 @@ Por eso este repositorio es una recopilación de esas preguntas y está abierta 
 
 Está abierta a comentarios y participación de otros profesionales para tener distintos puntos de vista y también a nuevas preguntas de quienes quieran entrar en el sector. Necesitamos diversidad. Puedes contactar en:
 
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfAYIKFfIaL-dZl8K1Pmwc-SLSXO5oEM4um0cuzWAkGiQaTbA/viewform?usp=sf_link" %}
+{% embed url="https://forms.gle/W1VGQKsWxaU8CNiY9" %}
 
 **Tómalo con cautela, solo tú eres responsable de tus decisiones.**

@@ -4,4 +4,4 @@
 
 Si quieres contactar para contarnos algo, hacer una pregunta, etc
 
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfAYIKFfIaL-dZl8K1Pmwc-SLSXO5oEM4um0cuzWAkGiQaTbA/viewform?usp=sf_link" %}
+{% embed url="https://forms.gle/W1VGQKsWxaU8CNiY9" %}
