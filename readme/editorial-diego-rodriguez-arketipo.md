@@ -21,3 +21,7 @@ Está abierta a comentarios y participación de otros profesionales para tener d
 {% embed url="https://forms.gle/W1VGQKsWxaU8CNiY9" %}
 
 **Tómalo con cautela, solo tú eres responsable de tus decisiones.**
+
+Si puedo echar un cable, por aquí ando
+
+{% embed url="https://www.linkedin.com/in/arketipo/" %}
