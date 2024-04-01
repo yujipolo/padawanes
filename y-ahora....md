@@ -25,8 +25,14 @@ Fantástico Podcast de Mariana Salgado
 Máximo es una referencia en pensar y en diseñar
 {% endembed %}
 
-{% embed url="https://superfluor.substack.com/about" %}
-Una delicia el Podcast de Iván, es como ir con alguien a descubrir cosas maravillosas por lugares que nunca habrías visitado por tu cuenta
+{% embed url="https://www.uifrommars.com/" %}
+Cris ejemplo de calidad y constancia, imprescindible.
 {% endembed %}
 
-{% embed url="https://www.uifrommars.com/" %}
+{% embed url="https://superfluor.substack.com/about" %}
+Una delicia el Podcast de Iván, es como ir con alguien a descubrir cosas maravillosas
+{% endembed %}
+
+{% embed url="https://enlainterfaz.com/" %}
+El proyecto de Carmel Hassan sobre interaccióón es magníífico
+{% endembed %}
