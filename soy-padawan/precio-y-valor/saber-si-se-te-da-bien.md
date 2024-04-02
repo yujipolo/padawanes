@@ -1,6 +1,6 @@
-# Saber si se te da bien
+# ✔️ Saber si se te da bien
 
-Como dice la metodología Lean: "si no te avergüenzas de tu producto es que lo has lanzado demasiado tarde. Lo mismo ocurre con nuestro trabajo. Nuestro nivel lo marca el último proyecto y lo general es que nos avergoncemos de lo que hicimos no hace tanto tiempo. Ya sea código, ilustración, marca… de eso se trata de seguir creciendo.
+Como dice la metodología Lean: "si no te avergüenzas de tu producto es que lo has lanzado demasiado tarde". Lo mismo ocurre con nuestro trabajo. Nuestro nivel lo marca el último proyecto y lo general es que nos avergoncemos de lo que hicimos no hace tanto tiempo. Ya sea código, ilustración, marca… de eso se trata de seguir creciendo.
 
 **Una carrera profesional va más de constancia y capacidad de aprendizaje que de talento natural (si es que esto existe).**
 

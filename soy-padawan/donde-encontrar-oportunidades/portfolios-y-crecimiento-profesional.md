@@ -1,4 +1,4 @@
-# Portfolios y Crecimiento Profesional
+# ✔️ Portfolios y Crecimiento Profesional
 
 ## Trabajos de grado, fin de máster… una buena oportunidad
 
@@ -6,7 +6,7 @@ El diseñador/a debe ser proactivo y no reactivo. Como decían en la "bola de cr
 
 {% embed url="https://www.openideo.com/" %}
 
-Creo que es más directo definir el diseñador/a bueno como el que hace buenos diseños y los buenos diseños son los que cumplen los objetivos.
+Creo que es más directo definir el diseñador/a bueno como el que hace buenos diseños y **los buenos diseños son los que cumplen los objetivos**. Usa los datos a tu favor.
 
 El tema de portfolios está resuelto. El tema de freelance también… como parte de una empresa creo que lo mejor es definir tu perfil profesional, ver qué necesitas (usar algo como un DAFO para analizar que fortalezas competitivas tienes y que áreas de mejora necesitas) y eso compararlo con las ofertas de las empresas que te interesan.
 
@@ -22,7 +22,7 @@ En el podcast "lo de producto" tienen un capítulo sobre el tema que te ayudará
 
 ### Donde montar un portfolio
 
-* Puedes hacerte tu propia página, Asi puedes mostrar tus conocimientos.
+* Puedes hacerte tu propia página, Así puedes mostrar tus conocimientos.
 * Puedes ser público o privado para que solo puedan verlo las personas a las que les des acceso, a través de una web con contraseña o incluso un pdf protegido
 * En plataformas especializadas: behance, dribble…
 * Tienes servicios y plantillas para crearlos como squarespace, semplice, carbonmade…

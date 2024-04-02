@@ -1,4 +1,4 @@
-# Precio y Valor
+# ✔️ Precio y Valor
 
 ## Cuánto se cobra
 
@@ -10,9 +10,9 @@ En [Brandemia](https://brandemia.org/) puedes encontrar información sobre el se
 
 {% embed url="https://brandemia.org/ii-informe-brandemia-radiografia-profesional-del-branding-2023" %}
 
-No es legal el fijar precios en ningún sector.
+No es legal el fijar precios ni pactar entre empresas que se suponen que son competencia, en ningún sector.
 
-En su dia en Valencia se publicó una guía y fue un problema.
+En su dia en Valencia se publicó una guía y tuvieron problemas legales.
 
 En espacios seguros se puede comentar los precios que se cobran por servicios determinados sin ningún problema y los peritos judiciales también tienen referencias de lo ajustado al mercado que está un presupuesto.
 
@@ -20,9 +20,7 @@ Si estás empezando, aunque no es la mejor opción, **puedes calcular los gastos
 
 Cuando ganes experiencia es más útil fijar los precios en base a resultados obtenidos e impacto en negocio.
 
-Convenios, Sindicatos, ojalá ofertas de trabajo que publiquen horquilla salarial… pero sobre todo hablar con compañeros de profesión. Cuanto más hablemos sobre sueldos, condiciones y empresas en las que merece la pena trabajar más competitivos seremos.
-
-
+Convenios, Sindicatos, ojalá ofertas de trabajo que publiquen horquilla salarial (es obligatorio)… pero sobre todo hablar con compañeros de profesión. Cuanto más hablemos sobre sueldos, condiciones y empresas en las que merece la pena trabajar más competitivos seremos.
 
 ## El valor económico del trabajo (Armando Sotoca)
 
@@ -42,7 +40,7 @@ Existen dos maneras fundamentales de poner precio a nuestro trabajo: por coste o
 
 Por coste significa marcar un precio hora en base a tus gastos, margen de beneficio y tiempo a dedicar.
 
-Por valor significa poner precio por el valor que aportamos con nuestro trabajo, sin estar ligado necesariamente al tiempo necesario para realizarlo.
+**Por valor significa poner precio por el valor que aportamos con nuestro trabajo, sin estar ligado necesariamente al tiempo necesario para realizarlo.**
 
 Personalmente considero que es más interesante trabajar por valor, pero entiendo perfectamente que en los inicios es más complicado por lo que poner precio por hora suele ser el camino más fácil.
 
