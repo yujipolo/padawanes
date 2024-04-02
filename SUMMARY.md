@@ -7,7 +7,7 @@
   * [✔️ Por dónde empezar](soy-padawan/por-donde-empezar.md)
   * [✔️ Cómo conseguir contactos](soy-padawan/como-conseguir-contactos.md)
   * [✔️ Dónde encontrar oportunidades](soy-padawan/donde-encontrar-oportunidades/README.md)
-    * [Promoción continua](soy-padawan/donde-encontrar-oportunidades/promocion-continua.md)
+    * [✔️ Promoción continua](soy-padawan/donde-encontrar-oportunidades/promocion-continua.md)
     * [Portfolios y Crecimiento Profesional](soy-padawan/donde-encontrar-oportunidades/portfolios-y-crecimiento-profesional.md)
   * [Precio y Valor](soy-padawan/precio-y-valor/README.md)
     * [Saber si se te da bien](soy-padawan/precio-y-valor/saber-si-se-te-da-bien.md)
