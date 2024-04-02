@@ -17,4 +17,4 @@
   * [✔️ Cómo echar una mano](soy-jedi/como-echar-una-mano.md)
   * [✔️ Una responsabilidad colectiva](soy-jedi/una-responsabilidad-colectiva.md)
 * [✔️ Y ahora…](y-ahora....md)
-* [Han colaborado en este proyecto](han-colaborado-en-este-proyecto.md)
+* [✔️ Han colaborado en este proyecto](han-colaborado-en-este-proyecto.md)
