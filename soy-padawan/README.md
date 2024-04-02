@@ -4,13 +4,13 @@ cover: >-
 coverY: -1.5148936170212766
 ---
 
-# Soy PADAWAN
+# ✔️ Soy PADAWAN
 
 ## Si estás empezando
 
 * Comparte
 * Aporta lo que vayas aprendiendo
-* Si surge una oportunidad, y no es para ti, compártela a quien le vaya bien
+* Si surge una oportunidad, y no es para ti, pásasela a quien la pueda aprovechar.
 
 Écha un vistazo a las preguntas y contenidos compartidos por profesionales en activo
 
