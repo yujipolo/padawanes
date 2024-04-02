@@ -8,5 +8,7 @@ coverY: 0
 
 ## Hola Padawanes
 
-Si andas perdido/a a la hora de entrar en el sector del diseño quizás la comunidad pueda echarte un cable
+Si andas perdido/a a la hora de entrar en el sector del diseño quizás la comunidad pueda echarte un cable.
+
+Este es un repositorio de Preguntas y Respuestas que te pueden ayudar a ver otros puntos de vista y experiencias reales del sector.
 
