@@ -1,4 +1,10 @@
-# ✔️ Padawanes 2.0
+---
+cover: >-
+  https://images.unsplash.com/photo-1494783367193-149034c05e8f?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxob3Jpem9ufGVufDB8fHx8MTcxMjA1ODA0MHww&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
+# ✔️ Padawanes
 
 ## Hola Padawanes
 

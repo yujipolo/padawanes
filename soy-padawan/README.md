@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1533613220915-609f661a6fe1?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxzdGFyJTIwd2Fyc3xlbnwwfHx8fDE3MTIwNTgxNjB8MA&ixlib=rb-4.0.3&q=85
+coverY: -1.5148936170212766
+---
+
 # Soy PADAWAN
 
 ## Si estás empezando

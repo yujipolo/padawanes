@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/fondo.jpg
+coverY: 0
+---
+
 # ✔️ Editorial - Diego Rodríguez (arketipo)
 
 Hace unos años [Pablo](https://twitter.com/pabsdominguez) Domínguez, que es un tio muy generoso, publicó en redes que abría su agenda a charlar y ayudar a gente que quería empezar en el mundo del diseño. Después de una charla decidimos que era interesante abrir la iniciativa a más gente y lanzamos Padawanes, un proyecto para conectar a mentores/as y mentorizados para entender las necesidades y crear relaciones más cercanas entre profesionales en activo y estudiantes en su último año o buscando su primer empleo.
