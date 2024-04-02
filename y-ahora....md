@@ -2,7 +2,7 @@
 description: a disfrutar del camino ;)
 ---
 
-# Y ahora…
+# ✔️ Y ahora…
 
 {% embed url="https://www.youtube.com/watch?v=Q0OLQcNULJQ" %}
 
@@ -12,7 +12,7 @@ Si piensas así ya tienes mucho ganado. Evidentemente tiene que funcionar visual
 
 **El ser diseñador/a es más un modo de pensar, de buscar soluciones, de entender a las personas y de pensar en el contexto.**
 
-Como comentas, mirar hacia adentro y ver que te interesa, que se te da bien y en que puedes aportar más es un gran aprendizaje. Ya no se puede trabajar en solitario y encajar en un equipo y hacerlo crecer es una de los talentos más valiosos.\
+Mirar hacia adentro y ver que te interesa, que se te da bien y en que puedes aportar más es un gran aprendizaje. Ya no se puede trabajar en solitario y encajar en un equipo y hacerlo crecer es una de los talentos más valiosos.\
 
 
 ## Estar al dia
@@ -34,5 +34,5 @@ Una delicia el Podcast de Iván, es como ir con alguien a descubrir cosas maravi
 {% endembed %}
 
 {% embed url="https://enlainterfaz.com/" %}
-El proyecto de Carmel Hassan sobre interaccióón es magníífico
+El proyecto de Carmel Hassan sobre interacción es magnífico
 {% endembed %}
