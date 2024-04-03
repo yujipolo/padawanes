@@ -10,6 +10,10 @@ En [Brandemia](https://brandemia.org/) puedes encontrar información sobre el se
 
 {% embed url="https://brandemia.org/ii-informe-brandemia-radiografia-profesional-del-branding-2023" %}
 
+A nivel internacional (otra buena razón, si la necesitas, para aprender inglés)
+
+{% embed url="https://designx.community/salary/" %}
+
 No es legal el fijar precios ni pactar entre empresas que se suponen que son competencia, en ningún sector.
 
 En su dia en Valencia se publicó una guía y tuvieron problemas legales.
