@@ -21,3 +21,7 @@ En Manfred que saben mucho de talento y mercado tienen una guía muy útil.
 El curso de Raul, muy útil para romper mitos repetidos múltiples veces
 
 {% embed url="https://www.videocation.es/cursos/creatividad-y-diseno/introduccion-atipica-a-los-fundamentos-de-la-ux" %}
+
+Para cambiar de carrera, algo que tendremos que hacer varias veces a lo largo de nustra vida
+
+{% embed url="https://www.uifrommars.com/guia-diseno-grafico-a-ui-ux/" %}
