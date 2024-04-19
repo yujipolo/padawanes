@@ -6,7 +6,8 @@ Como dice la metodología Lean: "si no te avergüenzas de tu producto es que lo 
 
 Tampoco hay que obcecarse si ves que no hay avances se puede cambiar de área dentro de la profesión. Todo suma y casi todos haremos algún "pivotaje" cada "x" años. Mi trabajo actual no tiene prácticamente nada que ver con lo que estaba haciendo antes de la pandemia.
 
-## **¿Y qué es ser bueno? (Marcos)**
+## ¿Y qué es ser bueno?
+> Marcos González
 
 Bueno necesita un contexto, en mi caso voy a adaptarlo a ser "buen profesional".
 
@@ -26,7 +27,8 @@ Os dejo aquí las 5 cualidades más relevantes (y en ese orden) que, en mi opini
 4. Eficiencia
 5. Aptitud
 
-## La vara de medir (Armando Sotoca)
+## La vara de medir
+> Armando Sotoca
 
 Creo que es importante hacerse una pregunta de manera previa a la que encabeza este bloque y es la siguiente: ¿Qué significa ser bueno o buena? Me refiero a ¿Cuál es la vara de medir para determinar que algo sea bueno o no lo sea?
 
