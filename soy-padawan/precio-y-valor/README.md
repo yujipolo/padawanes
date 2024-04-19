@@ -26,7 +26,8 @@ Cuando ganes experiencia es más útil fijar los precios en base a resultados ob
 
 Convenios, Sindicatos, ojalá ofertas de trabajo que publiquen horquilla salarial (es obligatorio)… pero sobre todo hablar con compañeros de profesión. Cuanto más hablemos sobre sueldos, condiciones y empresas en las que merece la pena trabajar más competitivos seremos.
 
-## El valor económico del trabajo (Armando Sotoca)
+## El valor económico del trabajo
+> Armando Sotoca
 
 Recuerdo cómo se me quedó grabada una respuesta que obtuve en un foro de diseño cuando recién daba mis primeros pasos. Fue algo del palo "por menos de 2000 euros no me levanto de la cama".
 
@@ -38,7 +39,8 @@ Yo establecí un precio por hora para tener como base y una serie de precios fij
 
 Pero no hay una fórmula perfecta y os contaré un secreto: he trabajado con profesionales de primer nivel a los que les he pedido que revisen sus tarifas por cobrar demasiado POCO.
 
-## Poner en valor (Marcos)
+## Poner en valor
+> Marcos González
 
 Existen dos maneras fundamentales de poner precio a nuestro trabajo: por coste o por valor.
 
