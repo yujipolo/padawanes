@@ -31,13 +31,15 @@ El del compañero Pablo es un buen ejemplo
 
 {% embed url="http://www.tinybigstudio.com/" %}
 
-## ¿Es necesario tener un portfolio? (Armando Sotoca)
+## ¿Es necesario tener un portfolio?
+> Armando Sotoca
 
 En mi época por la comunidad de diseño DeviantArt era muy común hacerse una especie de imagen de perfil tipo tarjeta de presentación y renovarla cada poco tiempo. Al final era una manera más de practicar diseño.
 
 En una de mis múltiples actualizaciones encontré una cita célebre que se le atribuye a Gandhi "**El mundo exige resultados. No le cuentes a otros tus dolores del parto. Muéstrales al niño".** Eso sigue presente en mi cabeza a día de hoy y creo que es una idea que viene como anillo al dedo.
 
-## Qué diferencia al buen del mal diseñador/a (Marcos)
+## Qué diferencia al buen del mal diseñador/a 
+> Marcos Gonzalez
 
 Cumplir los objetivos no tiene por qué referirse solamente a los objetivos del cliente.
 
