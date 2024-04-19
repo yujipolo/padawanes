@@ -16,7 +16,8 @@ De manera más específica:
 * Podeis también montar vuestros propios eventos, una de las mejores maneras de llevar a los profesionales que os interesen a los centros de estudios.
 * En redes sociales. La gente, generalmente, es más maja y abierta de lo que nos imaginamos.
 
-## Hacer cosas (By Marcos)
+## Hacer cosas
+> by Marcos
 
 Haciendo cosas en muchas ocasiones pasan cosas. Colaborar en proyectos de terceros, o crear proyectos abiertos propios.
 
