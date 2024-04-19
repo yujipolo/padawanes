@@ -42,8 +42,9 @@ El buscar trabajo puede ser muy frustrante y debes tener en cuenta que no es una
 
 Así que mantener la moral y no desfallecer es muy importante. Hay veces que las vacantes quedan vacías, otras son pruebas de cómo está el sector. Lo más difícil es entrar. A partir de ahí se empieza a conocer gente, entender mejor lo que nos gusta y lo que se nos da bien y podemos usar la "teoría de las lianas" buscar trabajos o proyectos mientras tenemos otro. Creo que todos nos avergonzamos del primer empleo, pero muchas veces son pasos necesarios.
 
-## Pueden aparecer de cualquier forma (Armando Sotoca)
-
+## Pueden aparecer de cualquier forma
+> Armando Sotoca
+> 
 Quizá sea debido al momento vital en el que me encuentro pero llevo ya unos años pensando que hay mucha oferta de empleo relacionada con el diseño, entendiendo como diseño todo aquello que tenga que ver con el estudio o la aplicación del diseño en alguna de sus formas.
 
 El problema no es que no haya trabajo sino que quizá ese trabajo disponible no encaja con lo que nosotros tenemos en la cabeza o que realmente NO estamos dispuestos a hacer o aceptar todo lo que supone conseguir ese trabajo.
