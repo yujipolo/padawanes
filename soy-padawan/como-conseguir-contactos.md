@@ -17,7 +17,7 @@ De manera más específica:
 * En redes sociales. La gente, generalmente, es más maja y abierta de lo que nos imaginamos.
 
 ## Hacer cosas
-> by Marcos
+> por Marcos González
 
 Haciendo cosas en muchas ocasiones pasan cosas. Colaborar en proyectos de terceros, o crear proyectos abiertos propios.
 
