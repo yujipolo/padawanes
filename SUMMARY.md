@@ -1,7 +1,7 @@
 # Table of contents
 
 * [✔️ Padawanes](README.md)
-  * [Editorial - Pablo Domínguez (tinybigstudio)](readme/editorial-pablo-dominguez-tinybigstudio.md)
+  * [Editorial - Pablo Domínguez (@pabsdominguez)](readme/editorial-pablo-dominguez-tinybigstudio.md)
   * [✔️ Editorial - Diego Rodríguez (arketipo)](readme/editorial-diego-rodriguez-arketipo.md)
 * [✔️ Soy PADAWAN](soy-padawan/README.md)
   * [✔️ Por dónde empezar](soy-padawan/por-donde-empezar.md)
