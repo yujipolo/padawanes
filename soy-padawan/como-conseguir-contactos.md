@@ -22,3 +22,7 @@ De manera más específica:
 Haciendo cosas en muchas ocasiones pasan cosas. Colaborar en proyectos de terceros, o crear proyectos abiertos propios.
 
 Cada vez es menos extraño encontrar proyectos donde se permite participar, y se me ocurren pocas maneras mejores de generar contactos de calidad.
+
+## Colaborar con proyectos Open Source
+> Raúl Redondo
+ 
