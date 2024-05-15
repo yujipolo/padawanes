@@ -2,7 +2,7 @@
 description: a disfrutar del camino ;)
 ---
 
-# ✔️ Y ahora…
+# Y ahora…
 
 {% embed url="https://www.youtube.com/watch?v=Q0OLQcNULJQ" %}
 
@@ -35,4 +35,8 @@ Una delicia el Podcast de Iván, es como ir con alguien a descubrir cosas maravi
 
 {% embed url="https://enlainterfaz.com/" %}
 El proyecto de Carmel Hassan sobre interacción es magnífico
+{% endembed %}
+
+{% embed url="https://www.linkedin.com/posts/soyjonassuarez_diseaehodeproducto-productdesign-ux-activity-7196403997174382593-lTpr?utm_source=share&utm_medium=member_desktop" %}
+Jonás comparte mucho contenido interesante sobre la disciplina
 {% endembed %}
