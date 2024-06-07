@@ -15,6 +15,16 @@ Si piensas así ya tienes mucho ganado. Evidentemente tiene que funcionar visual
 Mirar hacia adentro y ver que te interesa, que se te da bien y en que puedes aportar más es un gran aprendizaje. Ya no se puede trabajar en solitario y encajar en un equipo y hacerlo crecer es una de los talentos más valiosos.\
 
 
+## Mentoría
+
+Puedes contactar con nosotros/as si necesitas un cable. También puedes incorporarte a comunidades como:
+
+{% embed url="https://www.adoptaunjunior.es" %}
+
+O buscar en:
+
+{% embed url="https://adplist.org/" %}
+
 ## Estar al dia
 
 {% embed url="https://disenoydiaspora.org/" %}
